@@ -1,0 +1,26 @@
+// padding, margin and radius
+$padding : 7.5px;
+$border-radius: 5px;
+
+// color
+$color-1: #3259ad;
+$color-2: #616770;
+$color-black: #363636;
+$color-white: #fff;
+$color-red: #d50000;
+$color-border-dark: transparentize($color-black,.7);
+$color-border: transparentize($color-black,.85);
+$color-border-light: transparentize($color-black,.9);
+$color-bg: #e6ecf0;
+$color-bg-light: #f1f5f7;
+
+//font-size
+$font-size-small: 14px !default;
+$font-size-default: 15px !default;
+$font-size-medium: 17px !default;
+$font-size-large: 20px !default;
+
+$font-default : 'Open Sans', sans-serif;
+
+// media queries
+$media-sm: 767px;
